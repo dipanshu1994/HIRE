@@ -1,0 +1,1 @@
+const { jwtSecret } = require('../../config/config')
